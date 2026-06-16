@@ -1,5 +1,7 @@
 //fichero .js creado
 
 console-log("hola!")
-function login()
+function login() ()
 //login creado
+// bug arreglado
+
