@@ -1,3 +1,3 @@
 //fichero .js creado
 
-console-log("hola")
+console-log("hola!")
