@@ -5,3 +5,5 @@ function login() ()
 //login creado
 // bug arreglado
 
+function camera
+// camara terminada
